@@ -37,6 +37,24 @@ Este repositório está organizado da seguinte forma:
 - **03_Recursos**: Contém recursos visuais utilizados no projeto.
 
 ---
+## 💾 Demonstração e Uso
+Para explorar a análise, você pode seguir uma das opções abaixo:
+
+1. **Visualização Direta no GitHub**:
+   - Vá até a pasta **02-Analise** e abra o arquivo **Jupyter Notebook** diretamente no GitHub para visualizar a análise sem precisar baixar.
+   - [Clique aqui para acessar a pasta de análise](02-Analise/credit-card-customer-clustering.ipynb).
+
+
+
+2. **Download do Notebook**:
+   - Caso a visualização no GitHub não funcione adequadamente ou prefira trabalhar localmente, você pode baixar o arquivo que está no caminho anterior.
+   
+
+3. **Instruções de Uso Local**:
+   - Após baixar, abra o notebook no Jupyter ou em uma plataforma que suporte notebooks IPython.
+   - Execute as células sequencialmente para visualizar as análises e gráficos.
+
+
 
 ## 🔍 Estrutura do Projeto
 
