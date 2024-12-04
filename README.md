@@ -1,6 +1,8 @@
 # 💳 Mapa de Clientes de Cartões de Crédito: Segmentação e Predição
 
+
 <img src="03-Recursos/imagem_capa.png">
+
 
 [![Python Version](https://img.shields.io/badge/Python-3.11.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Version](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
