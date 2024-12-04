@@ -1,4 +1,4 @@
-# 💳 Mapa de Clientes de Cartões de Crédito: Segmentação e Predição
+# 💳 Mapa de Clientes de Cartões de Crédito
 
 
 <img src="03-Recursos/imagem_capa.png">
